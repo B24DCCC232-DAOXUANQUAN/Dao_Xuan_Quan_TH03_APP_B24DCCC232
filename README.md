@@ -1,4 +1,4 @@
-# 📅 Quản Lý Lịch Hẹn - Native Android App
+``# 📅 Quản Lý Lịch Hẹn - Native Android App
 
 Đây là một ứng dụng di động Android thuần (Native Android) được xây dựng bằng Java và XML, sử dụng SQLite để quản lý cơ sở dữ liệu. Ứng dụng cung cấp các tính năng quản lý lịch trình cơ bản, hỗ trợ nhắc nhở thời gian với thiết kế Material Design hiện đại, đơn giản.
 
